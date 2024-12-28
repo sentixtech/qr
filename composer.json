@@ -1,5 +1,5 @@
 {
-    "name": "sentix/qr-generation",
+    "name": "sentix/qr",
     "description": "This Package For QrCode Generation",
     "type": "library",
     "license": "MIT",
