@@ -3,8 +3,6 @@
     "description": "This Package For QrCode Generation",
     "type": "library",
     "license": "MIT",
-    "require-dev": { 
-    },
     "autoload": {
         "psr-4": {
             "sentixtech\\QrGeneration\\": "src/Sentix"
@@ -14,6 +12,12 @@
         {
             "name": "SentixTech",
             "email": "shambishnoi75@gmail.com"
+        }
+    ],
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/sentixtech/qr.git"
         }
     ],
     "require": {
