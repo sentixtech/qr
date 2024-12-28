@@ -5,7 +5,7 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "sentixtech\\QrGeneration\\": "src/Sentix"
+            "Sentix\\": "src/Sentix"
         }
     },
     "authors": [
